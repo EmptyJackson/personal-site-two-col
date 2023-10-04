@@ -1,0 +1,26 @@
+title = "Matthew Jackson"
+baseURL = 'http://matthewtjackson.com/'
+languageCode = 'en-us'
+theme = 'two_col'
+
+# Add Google Analytics tracking code to enable
+# googleAnalytics = "..."
+
+# Menu name
+sectionPagesMenu = "main"
+
+[params]
+    favicon = "logo.svg"
+
+    # Title for printing
+    longTitle = "Matthew T. Jackson"
+    twitterHandle = "JacksonMattT"
+
+    # Metadata for Open Graph and Twitter
+    description = "PhD student at the University of Oxford, researching generalization in reinforcement learning."         # Max 160 characters show in search results
+
+    # Bio
+    fullName = "Matthew T. Jackson"
+    profilePhoto = "matthew_jackson.jpeg"
+    tagline = "DPhil student at the University of Oxford"
+    email = "jackson@robots.ox.ac.uk"
