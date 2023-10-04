@@ -1,3 +1,3 @@
 [submodule "themes/two_col"]
 	path = themes/two_col
-	url = git@github.com:EmptyJackson/hugo-theme-two-col.git
+	url = https://github.com/EmptyJackson/hugo-theme-two-col.git
