@@ -1,8 +1,8 @@
 ---
 title: "Policy-Guided Diffusion"
-authors: [<b>Matthew T. Jackson</b>, Michael T. Matthews, Cong Lu, Jakob Foerster, Shimon Whiteson]
+authors: [<b>Matthew T. Jackson</b>, Michael T. Matthews, Cong Lu, Benjamin Ellis, Jakob Foerster, Shimon Whiteson]
 venue: "Under review - NeurIPS 2023 Workshop on Robot Learning"
-link:
+link: https://arxiv.org/abs/2404.06356
 image: "research/pgd.png"
 
 # For paper ordering, must have format yyyy-mm-dd
