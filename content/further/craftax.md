@@ -1,7 +1,7 @@
 ---
 title: "Craftax: A Lightning-Fast Benchmark for Open-Ended Reinforcement Learning"
 authors: [Michael Matthews, Michael Beukman, Benjamin Ellis, Mikayel Samvelyan, <b>Matthew T. Jackson</b>, Samuel Coward, Jakob Foerster]
-venue: "Under review"
+venue: "International Conference on Machine Learning (ICML) 2024"
 link: "https://arxiv.org/abs/2402.16801"
 image:
 
