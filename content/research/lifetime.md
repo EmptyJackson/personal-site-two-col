@@ -1,7 +1,7 @@
 ---
 title: "Discovering Temporally-Aware Reinforcement Learning Algorithms"
 authors: [<b>Matthew T. Jackson</b>*, Chris Lu*, Louis Kirsch, Robert T. Lange, Shimon Whiteson, Jakob N. Foerster]
-venue: "International Conference on Learning Representations (ICLR) 2024"
+venue: ICLR 2024
 link: https://arxiv.org/abs/2402.05828
 image: "research/lifetime.png"
 

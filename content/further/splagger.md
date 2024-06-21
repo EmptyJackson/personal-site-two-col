@@ -1,7 +1,7 @@
 ---
 title: "SplAgger: Split Aggregation for Meta-Reinforcement Learning"
 authors: [Jacob Beck, <b>Matthew T. Jackson</b>, Risto Vuorio, Zheng Xiong, Shimon Whiteson]
-venue: "Under review"
+venue: RLC 2024
 link: "https://arxiv.org/abs/2403.03020"
 image:
 

@@ -1,7 +1,7 @@
 ---
 title: "Hypernetworks in Meta-Reinforcement Learning"
 authors: [Jake Beck, <b>Matthew T. Jackson</b>, Risto Vuorio, Shimon Whiteson]
-venue: Conference on Robot Learning (CoRL) 2022
+venue: CoRL 2022
 link: "https://arxiv.org/abs/2210.11348"
 image: "research/hypernets.png"
 
