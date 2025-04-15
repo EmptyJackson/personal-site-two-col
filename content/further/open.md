@@ -1,8 +1,8 @@
 ---
 title: "Can Learned Optimization Make Reinforcement Learning Less Difficult?"
-authors: [Alexander D. Goldie, <b>Matthew T. Jackson</b>, Chris Lu, Jakob N. Foerster, Shimon Whiteson]
+authors: [Alexander D. Goldie, Chris Lu, <b>Matthew T. Jackson</b>, Jakob N. Foerster, Shimon Whiteson]
 venue: NeurIPS 2024 (Spotlight)
-link: "https://openreview.net/forum?id=623QP3J4SK"
+link: https://arxiv.org/abs/2407.07082
 image:
 
 # For paper ordering, must have format yyyy-mm-dd
