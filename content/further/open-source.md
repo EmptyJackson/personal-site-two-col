@@ -1,6 +1,6 @@
 ---
 title: "Risks and Opportunities of Open Source Generative AI"
-authors: [Francisco Eiras, Aleksandar Petrov, Bertie Vidgen, Christian Schroeder de Witt, Fabio Pizzati, Katherine Elkins, Supratik Mukhopadhyay, Adel Bibi, Botos Csaba, Fabro Steibel, Fazl Barez, Genevieve Smith, Gianluca Guadagni, Jon Chun, Jordi Cabot, Joseph Marvin Imperial, Juan A. Nolazco-Flores, Lori Landay, <b>Matthew T. Jackson</b>, Paul Röttger, Philip H.S. Torr, Trevor Darrell, Yong Suk Lee, Jakob Foerster]
+authors: [F Eiras, A Petrov, B Vidgen, C Schroeder de Witt, F Pizzati, K Elkins, S Mukhopadhyay, A Bibi, B Csaba, F Steibel, F Barez, G Smith, G Guadagni, J Chun, J Cabot, JM Imperial, JA Nolazco-Flores, L Landay, <b>MT Jackson</b>, P Röttger, PHS Torr, T Darrell, YS Lee, J Foerster]
 venue: "ICML 2024 (Oral)"
 link: "https://arxiv.org/abs/2404.17047"
 image:

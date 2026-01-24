@@ -1,9 +1,10 @@
 ---
 title: "Discovering Temporally-Aware Reinforcement Learning Algorithms"
-authors: [<b>Matthew T. Jackson</b>*, Chris Lu*, Louis Kirsch, Robert T. Lange, Shimon Whiteson, Jakob N. Foerster]
+authors: [<b>MT Jackson</b>*, C Lu*, L Kirsch, RT Lange, S Whiteson, JN Foerster]
 venue: ICLR 2024
 link: https://arxiv.org/abs/2402.05828
-podcast: https://x.com/The_Eimer/status/1805288632749568176
+code: https://github.com/EmptyJackson/groove
+podcast: https://automlpodcast.com/episode/discovering-temporally-aware-reinforcement-learning-algorithms
 image: "research/lifetime.png"
 
 # For paper ordering, must have format yyyy-mm-dd

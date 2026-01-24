@@ -1,6 +1,6 @@
 ---
 title: "Multi-Modal Fusion by Meta-Initialization"
-authors: [<b>Matthew T. Jackson</b>*, Shreshth A. Malik*, Michael T. Matthews, Yousuf Mohamed-Ahmed]
+authors: [<b>MT Jackson</b>*, SA Malik*, MT Matthews, Y Mohamed-Ahmed]
 venue: "FARSCOPE Robotics Workshop 2022 (Best Poster Award)"
 link: "https://arxiv.org/abs/2210.04843"
 image:

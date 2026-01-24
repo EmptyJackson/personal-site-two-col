@@ -1,8 +1,9 @@
 ---
 title: "Jafar: An Open-Source Genie Reimplemention in Jax"
-authors: [Timon Willi*, <b>Matthew T. Jackson*</b>, Jakob N. Foerster]
+authors: [T Willi*, <b>MT Jackson*</b>, JN Foerster]
 venue: ICML 2024 Workshop on Controllable Video Generation
-link: "https://github.com/FLAIROx/jafar"
+link:
+code: https://github.com/FLAIROx/jafar
 image:
 
 # For paper ordering, must have format yyyy-mm-dd

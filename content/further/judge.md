@@ -1,6 +1,6 @@
 ---
 title: "Judge a Book by Its Cover: Investigating Multi-Modal LLMs for Multi-Page Handwritten Document Transcription"
-authors: [Ben Gutteridge, <b>Matthew T. Jackson</b>, Toni Kukurin, Xiaowen Dong]
+authors: [B Gutteridge, <b>MT Jackson</b>, T Kukurin, X Dong]
 venue: AAAI 2025 DocUI Workshop
 link: https://arxiv.org/abs/2502.20295
 image:

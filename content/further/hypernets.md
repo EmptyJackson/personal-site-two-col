@@ -1,6 +1,6 @@
 ---
 title: "Hypernetworks in Meta-Reinforcement Learning"
-authors: [Jake Beck, <b>Matthew T. Jackson</b>, Risto Vuorio, Shimon Whiteson]
+authors: [J Beck, <b>MT Jackson</b>, R Vuorio, S Whiteson]
 venue: CoRL 2022
 link: "https://arxiv.org/abs/2210.11348"
 image: "research/hypernets.png"

@@ -1,6 +1,6 @@
 ---
 title: "Token-Sparse Diffusion Transformers"
-authors: [<b>Matthew T. Jackson</b>, Benjamin Ellis, Shimon Whiteson, Jakob N. Foerster]
+authors: [<b>MT Jackson</b>, B Ellis, S Whiteson, JN Foerster]
 venue: Under review
 link: sparse_dit.pdf
 image:

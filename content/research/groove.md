@@ -1,8 +1,9 @@
 ---
 title: "Discovering General Reinforcement Learning Algorithms with Adversarial Environment Design"
-authors: [<b>Matthew T. Jackson</b>, Minqi Jiang, Jack Parker-Holder, Risto Vuorio, Chris Lu, Gregory Farquhar, Shimon Whiteson, Jakob N. Foerster]
+authors: [<b>MT Jackson</b>, M Jiang, J Parker-Holder, R Vuorio, C Lu, G Farquhar, S Whiteson, JN Foerster]
 venue: NeurIPS 2023
 link: "https://arxiv.org/abs/2310.02782"
+code: https://github.com/EmptyJackson/groove
 image: "research/groove.png"
 
 # For paper ordering, must have format yyyy-mm-dd

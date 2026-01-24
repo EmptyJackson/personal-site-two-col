@@ -1,6 +1,6 @@
 ---
 title: "Online Reinforcement Learning Controllers for Soft Robots using Learned Environments"
-authors: [Uljad Berdica, <b>Matthew T. Jackson</b>, Jakob Foerster, Perla Maiolino]
+authors: [U Berdica, <b>MT Jackson</b>, J Foerster, P Maiolino]
 venue: RoboSoft 2024
 link:
 image:
