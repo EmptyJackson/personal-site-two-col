@@ -1,5 +1,5 @@
 ---
-title: "Jafar: An Open-Source Genie Reimplemention in Jax"
+title: "Jafar: An Open-Source Genie Reimplementation in Jax"
 authors: [T Willi*, <b>MT Jackson*</b>, JN Foerster]
 venue: ICML 2024 Workshop on Controllable Video Generation
 link:
