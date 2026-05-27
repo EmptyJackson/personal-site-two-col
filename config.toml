@@ -17,10 +17,10 @@ sectionPagesMenu = "main"
     twitterHandle = "JacksonMattT"
 
     # Metadata for Open Graph and Twitter
-    description = "PhD student at the University of Oxford, researching world models for robotics."         # Max 160 characters show in search results
+    description = "Researching on robotics at OpenAI, previously Google DeepMind, Wayve, Oxford."         # Max 160 characters show in search results
 
     # Bio
     fullName = "Matthew Jackson"
-    profilePhoto = "matthew_jackson.jpeg"
+    profilePhoto = "matthew_jackson.png"
     # tagline = "DPhil student at the University of Oxford"
     email = "jackson@robots.ox.ac.uk"

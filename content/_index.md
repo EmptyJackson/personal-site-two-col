@@ -8,8 +8,13 @@ I recently finished as a **student researcher at Google DeepMind** in London, wh
 
 <!-- Focused on leveraging video models to pretrain and generate data for robots. -->
 
-*Focused on **video for robotics pretraining and world models**.*
+<!-- *Focused on **video for robotics pretraining and world models**.* -->
 
-**Google DeepMind** ([Genie](https://deepmind.google/blog/genie-3-a-new-frontier-for-world-models/), [SIMA](https://arxiv.org/abs/2512.04797), [Robotics](https://arxiv.org/abs/2510.03342)) · **Wayve** ([GAIA](https://wayve.ai/thinking/scaling-gaia-1/))
+**Robots + Video at OpenAI**
+
+
+Previously at **Google DeepMind** (Genie) · **Wayve** (GAIA)
 
 **Oxford** (PhD ML) · **UCL** (MSc ML) · **Cambridge** (BSc CS)
+
+*Now based in SF, DM me if you're in town!*
